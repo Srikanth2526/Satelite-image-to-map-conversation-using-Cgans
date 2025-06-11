@@ -3,6 +3,9 @@ This project uses a Pix2Pix GAN with a U-Net generator to convert satellite imag
 Satellite Image to Map Translation using Pix2Pix GAN
 This project implements an advanced Pix2Pix GAN to convert satellite images into road maps, using a U-Net-based generator and a multiscale PatchGAN discriminator for improved edge precision and detail capture.
 
+
+Dataset link:"https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset"
+
 📌 Overview
 Translates paired satellite images into their corresponding road maps.
 
